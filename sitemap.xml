@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://uwtools.com/</loc></url><url><loc>https://uwtools.com/tools/json-formatter/</loc></url><url><loc>https://uwtools.com/about.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://uwtools.com/</loc></url>
+<url><loc>https://uwtools.com/tools/json-formatter/</loc></url>
+<url><loc>https://uwtools.com/tools/base64/</loc></url>
+<url><loc>https://uwtools.com/tools/uuid-generator/</loc></url>
+<url><loc>https://uwtools.com/tools/password-generator/</loc></url>
+<url><loc>https://uwtools.com/tools/word-counter/</loc></url>
+<url><loc>https://uwtools.com/tools/url-encoder/</loc></url>
+<url><loc>https://uwtools.com/tools/timestamp-converter/</loc></url>
+<url><loc>https://uwtools.com/tools/percentage-calculator/</loc></url>
+<url><loc>https://uwtools.com/tools/case-converter/</loc></url>
+<url><loc>https://uwtools.com/about.html</loc></url>
+</urlset>
