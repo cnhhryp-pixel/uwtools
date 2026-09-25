@@ -11,6 +11,8 @@
   <url><loc>https://uwtools.com/security-tools/</loc></url>
   <url><loc>https://uwtools.com/seo-tools/</loc></url>
   <url><loc>https://uwtools.com/text-tools/</loc></url>
+  <url><loc>https://uwtools.com/tools/age-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/area-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/aspect-ratio-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/base64/</loc></url>
   <url><loc>https://uwtools.com/tools/byte-converter/</loc></url>
@@ -19,6 +21,8 @@
   <url><loc>https://uwtools.com/tools/color-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/css-minifier/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-to-json/</loc></url>
+  <url><loc>https://uwtools.com/tools/date-difference-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/discount-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/dns-lookup/</loc></url>
   <url><loc>https://uwtools.com/tools/duplicate-line-remover/</loc></url>
   <url><loc>https://uwtools.com/tools/hash-generator/</loc></url>
@@ -30,11 +34,15 @@
   <url><loc>https://uwtools.com/tools/jpg-to-pdf/</loc></url>
   <url><loc>https://uwtools.com/tools/jpg-to-png/</loc></url>
   <url><loc>https://uwtools.com/tools/json-formatter/</loc></url>
+  <url><loc>https://uwtools.com/tools/json-minifier/</loc></url>
   <url><loc>https://uwtools.com/tools/json-to-csv/</loc></url>
+  <url><loc>https://uwtools.com/tools/json-validator/</loc></url>
   <url><loc>https://uwtools.com/tools/jwt-decoder/</loc></url>
   <url><loc>https://uwtools.com/tools/length-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/line-sorter/</loc></url>
   <url><loc>https://uwtools.com/tools/list-randomizer/</loc></url>
+  <url><loc>https://uwtools.com/tools/loan-payment-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/lorem-ipsum-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/markdown-preview/</loc></url>
   <url><loc>https://uwtools.com/tools/meta-tag-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/number-base-converter/</loc></url>
@@ -54,17 +62,22 @@
   <url><loc>https://uwtools.com/tools/ping-test/</loc></url>
   <url><loc>https://uwtools.com/tools/png-to-jpg/</loc></url>
   <url><loc>https://uwtools.com/tools/qr-code-generator/</loc></url>
+  <url><loc>https://uwtools.com/tools/query-string-parser/</loc></url>
   <url><loc>https://uwtools.com/tools/random-number-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/regex-tester/</loc></url>
   <url><loc>https://uwtools.com/tools/slug-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/ssl-checker/</loc></url>
   <url><loc>https://uwtools.com/tools/temperature-converter/</loc></url>
+  <url><loc>https://uwtools.com/tools/text-diff/</loc></url>
   <url><loc>https://uwtools.com/tools/text-reverser/</loc></url>
   <url><loc>https://uwtools.com/tools/timestamp-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/url-encoder/</loc></url>
+  <url><loc>https://uwtools.com/tools/url-parser/</loc></url>
   <url><loc>https://uwtools.com/tools/utm-builder/</loc></url>
   <url><loc>https://uwtools.com/tools/uuid-generator/</loc></url>
+  <url><loc>https://uwtools.com/tools/weight-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/whitespace-remover/</loc></url>
   <url><loc>https://uwtools.com/tools/whois-lookup/</loc></url>
   <url><loc>https://uwtools.com/tools/word-counter/</loc></url>
+  <url><loc>https://uwtools.com/tools/xml-formatter/</loc></url>
 </urlset>
