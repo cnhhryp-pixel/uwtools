@@ -14,6 +14,7 @@
   <url><loc>https://uwtools.com/tools/age-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/area-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/aspect-ratio-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/average-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/base64-image/</loc></url>
   <url><loc>https://uwtools.com/tools/base64/</loc></url>
   <url><loc>https://uwtools.com/tools/binary-text-converter/</loc></url>
@@ -29,7 +30,9 @@
   <url><loc>https://uwtools.com/tools/csv-to-excel/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-to-json/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-viewer/</loc></url>
+  <url><loc>https://uwtools.com/tools/date-add-subtract-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/date-difference-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/days-until-date/</loc></url>
   <url><loc>https://uwtools.com/tools/discount-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/dns-lookup/</loc></url>
   <url><loc>https://uwtools.com/tools/duplicate-line-remover/</loc></url>
@@ -39,6 +42,8 @@
   <url><loc>https://uwtools.com/tools/exif-viewer/</loc></url>
   <url><loc>https://uwtools.com/tools/favicon-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/fraction-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/gpa-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/grade-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/hash-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/heic-to-jpg/</loc></url>
   <url><loc>https://uwtools.com/tools/html-escape/</loc></url>
@@ -69,7 +74,9 @@
   <url><loc>https://uwtools.com/tools/list-randomizer/</loc></url>
   <url><loc>https://uwtools.com/tools/loan-payment-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/lorem-ipsum-generator/</loc></url>
+  <url><loc>https://uwtools.com/tools/margin-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/markdown-preview/</loc></url>
+  <url><loc>https://uwtools.com/tools/markup-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/meta-tag-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/mortgage-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/number-base-converter/</loc></url>
@@ -98,8 +105,11 @@
   <url><loc>https://uwtools.com/tools/random-number-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/random-string-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/regex-tester/</loc></url>
+  <url><loc>https://uwtools.com/tools/roi-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/roman-numeral-converter/</loc></url>
+  <url><loc>https://uwtools.com/tools/sales-tax-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/scientific-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/simple-interest-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/slug-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/speed-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/sql-formatter/</loc></url>
