@@ -61,6 +61,7 @@
   <url><loc>https://uwtools.com/tools/html-escape/</loc></url>
   <url><loc>https://uwtools.com/tools/html-formatter/</loc></url>
   <url><loc>https://uwtools.com/tools/html-minifier/</loc></url>
+  <url><loc>https://uwtools.com/tools/http-status-code-lookup/</loc></url>
   <url><loc>https://uwtools.com/tools/image-brightness-contrast/</loc></url>
   <url><loc>https://uwtools.com/tools/image-compressor/</loc></url>
   <url><loc>https://uwtools.com/tools/image-crop/</loc></url>
@@ -78,6 +79,7 @@
   <url><loc>https://uwtools.com/tools/json-escape/</loc></url>
   <url><loc>https://uwtools.com/tools/json-formatter/</loc></url>
   <url><loc>https://uwtools.com/tools/json-minifier/</loc></url>
+  <url><loc>https://uwtools.com/tools/json-schema-validator/</loc></url>
   <url><loc>https://uwtools.com/tools/json-sorter/</loc></url>
   <url><loc>https://uwtools.com/tools/json-to-csv/</loc></url>
   <url><loc>https://uwtools.com/tools/json-to-excel/</loc></url>
@@ -96,6 +98,7 @@
   <url><loc>https://uwtools.com/tools/mortgage-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/number-base-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/online-notepad/</loc></url>
+  <url><loc>https://uwtools.com/tools/password-entropy-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/password-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/password-strength-checker/</loc></url>
   <url><loc>https://uwtools.com/tools/pdf-compressor/</loc></url>
@@ -125,11 +128,13 @@
   <url><loc>https://uwtools.com/tools/random-string-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/regex-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/regex-tester/</loc></url>
+  <url><loc>https://uwtools.com/tools/robots-txt-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/roi-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/roman-numeral-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/sales-tax-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/scientific-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/simple-interest-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/sitemap-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/slug-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/speed-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/sql-formatter/</loc></url>
