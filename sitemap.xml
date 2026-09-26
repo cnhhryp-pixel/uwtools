@@ -16,6 +16,7 @@
   <url><loc>https://uwtools.com/tools/area-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/aspect-ratio-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/average-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/base64-file-encoder/</loc></url>
   <url><loc>https://uwtools.com/tools/base64-image/</loc></url>
   <url><loc>https://uwtools.com/tools/base64/</loc></url>
   <url><loc>https://uwtools.com/tools/binary-text-converter/</loc></url>
@@ -24,6 +25,7 @@
   <url><loc>https://uwtools.com/tools/case-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/character-counter/</loc></url>
   <url><loc>https://uwtools.com/tools/chmod-calculator/</loc></url>
+  <url><loc>https://uwtools.com/tools/color-contrast-checker/</loc></url>
   <url><loc>https://uwtools.com/tools/color-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/color-picker/</loc></url>
   <url><loc>https://uwtools.com/tools/compound-interest-calculator/</loc></url>
@@ -35,6 +37,7 @@
   <url><loc>https://uwtools.com/tools/csv-duplicate-remover/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-merger/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-sorter/</loc></url>
+  <url><loc>https://uwtools.com/tools/csv-splitter/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-to-excel/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-to-json/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-viewer/</loc></url>
@@ -120,6 +123,7 @@
   <url><loc>https://uwtools.com/tools/random-number-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/random-picker/</loc></url>
   <url><loc>https://uwtools.com/tools/random-string-generator/</loc></url>
+  <url><loc>https://uwtools.com/tools/regex-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/regex-tester/</loc></url>
   <url><loc>https://uwtools.com/tools/roi-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/roman-numeral-converter/</loc></url>
@@ -135,6 +139,7 @@
   <url><loc>https://uwtools.com/tools/temperature-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/text-deduplicator/</loc></url>
   <url><loc>https://uwtools.com/tools/text-diff/</loc></url>
+  <url><loc>https://uwtools.com/tools/text-encrypt-decrypt/</loc></url>
   <url><loc>https://uwtools.com/tools/text-reverser/</loc></url>
   <url><loc>https://uwtools.com/tools/text-to-html/</loc></url>
   <url><loc>https://uwtools.com/tools/time-duration-calculator/</loc></url>
