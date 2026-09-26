@@ -33,6 +33,7 @@
   <url><loc>https://uwtools.com/tools/cron-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/cron-parser/</loc></url>
   <url><loc>https://uwtools.com/tools/css-minifier/</loc></url>
+  <url><loc>https://uwtools.com/tools/css-unit-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-column-extractor/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-duplicate-remover/</loc></url>
   <url><loc>https://uwtools.com/tools/csv-merger/</loc></url>
@@ -61,6 +62,7 @@
   <url><loc>https://uwtools.com/tools/html-escape/</loc></url>
   <url><loc>https://uwtools.com/tools/html-formatter/</loc></url>
   <url><loc>https://uwtools.com/tools/html-minifier/</loc></url>
+  <url><loc>https://uwtools.com/tools/http-header-parser/</loc></url>
   <url><loc>https://uwtools.com/tools/http-status-code-lookup/</loc></url>
   <url><loc>https://uwtools.com/tools/image-brightness-contrast/</loc></url>
   <url><loc>https://uwtools.com/tools/image-compressor/</loc></url>
@@ -95,6 +97,7 @@
   <url><loc>https://uwtools.com/tools/markdown-preview/</loc></url>
   <url><loc>https://uwtools.com/tools/markup-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/meta-tag-generator/</loc></url>
+  <url><loc>https://uwtools.com/tools/mime-type-lookup/</loc></url>
   <url><loc>https://uwtools.com/tools/mortgage-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/number-base-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/online-notepad/</loc></url>
@@ -149,11 +152,13 @@
   <url><loc>https://uwtools.com/tools/text-to-html/</loc></url>
   <url><loc>https://uwtools.com/tools/time-duration-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/timestamp-converter/</loc></url>
+  <url><loc>https://uwtools.com/tools/timezone-converter/</loc></url>
   <url><loc>https://uwtools.com/tools/tip-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/unit-price-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/unix-permissions-calculator/</loc></url>
   <url><loc>https://uwtools.com/tools/url-encoder/</loc></url>
   <url><loc>https://uwtools.com/tools/url-parser/</loc></url>
+  <url><loc>https://uwtools.com/tools/url-query-parameter-editor/</loc></url>
   <url><loc>https://uwtools.com/tools/username-generator/</loc></url>
   <url><loc>https://uwtools.com/tools/utm-builder/</loc></url>
   <url><loc>https://uwtools.com/tools/uuid-generator/</loc></url>
